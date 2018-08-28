@@ -10,7 +10,7 @@
 
   <form action="<?php echo htmlspecialchars($_SERVER['PHP_SELF']);?>" method="get">
 
-      <label> Enter address here </lebel>
+      <label> Enter address here </label>
         <br>
         <br>
       <input type="text" name="inpAdd"/>
